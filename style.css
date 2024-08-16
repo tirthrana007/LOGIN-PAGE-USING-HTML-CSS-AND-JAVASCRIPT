@@ -20,6 +20,7 @@ header {
  border-radius: 15%; /* Adjust size as needed */
   height:100px; 
   width: 100px;/* Maintain aspect ratio */
+  cursor:pointer;
 }
 body{
   width: 100%;
